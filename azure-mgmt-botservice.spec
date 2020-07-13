@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-botservice
 Version  : 0.2.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/eb/8e/f523bf5c10abd10c945d0911a6988b9ee347464939d8b9cf769721bdbcb3/azure-mgmt-botservice-0.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/eb/8e/f523bf5c10abd10c945d0911a6988b9ee347464939d8b9cf769721bdbcb3/azure-mgmt-botservice-0.2.0.zip
 Summary  : Microsoft Azure Bot Service Client Library for Python
